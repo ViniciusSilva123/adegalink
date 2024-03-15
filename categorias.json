@@ -1,0 +1,36 @@
+{
+    "categorias": [
+        {
+            "categoria": "TUDO",
+            "categoria1": "."
+        },
+        {
+            "categoria": "CERVEJA ",
+            "categoria1": "CERVEJA "
+        },
+        {
+            "categoria": "WHISKY ",
+            "categoria1": "WHISKY "
+        },
+        {
+            "categoria": "GIN ",
+            "categoria1": "GIN "
+        },
+        {
+            "categoria": "VODKA ",
+            "categoria1": "VODKA "
+        },
+        {
+            "categoria": "CACHAÇA ",
+            "categoria1": "CACHAÇA "
+        },
+        {
+            "categoria": "VINHO ",
+            "categoria1": "VINHO "
+        },  
+        {
+            "categoria": "ENERGÉTICO ",
+            "categoria1": "ENERGÉTICO "
+        }
+    ]
+}
